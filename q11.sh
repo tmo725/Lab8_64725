@@ -18,9 +18,4 @@ do
    fi
    printf "%s.c %s\n" $prog_name $score
 done
-   
-
-
-
-
-
+ 
